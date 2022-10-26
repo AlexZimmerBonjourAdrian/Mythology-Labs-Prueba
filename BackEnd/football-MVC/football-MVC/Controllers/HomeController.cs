@@ -6,10 +6,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-
+using System.Web;
 namespace football_MVC.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController :Controller
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -19,10 +19,13 @@ namespace football_MVC.Controllers
         {
             _logger = logger;
         }
-        public IActionResult Cancha()
+
+        public IActionResult cancha()
         {
             return View();
         }
+
+     
         public IActionResult Index()
         {
             return View();
@@ -30,6 +33,17 @@ namespace football_MVC.Controllers
 
         public IActionResult Privacy()
         {
+            return View();
+        }
+
+        public ActionResult AgregarCancha(Cancha can)
+        {
+            int idCancha = can.id;
+            string name = can.Name;
+            string pais = can.Pais;
+            string ciudad = can.Ciudad;
+            string Estado = can.Estado;
+
             return View();
         }
 

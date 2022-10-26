@@ -9,26 +9,31 @@ namespace football_MVC.Models
     public class Jugador
     {
 
-        public class Usuario
-        {
-            [Required]
-            [MinLength(2)]
-            public string Name { get; set; }
 
+        [Required]
             [MinLength(2)]
-            public int NumberShirt { get; set; }
+           
+            public int Id { get; set; }
+            public string Nombre { get; set; }
 
+            public string Apellido { get; set; }
+
+            public string Nacionalidad { get; set; }
+            public DateTime FdeN { get; set; }
+
+            public Posiciones Posicion { get; set; }
+
+            public string Foto { get; set; }
+
+            public string CamisetaImagen { get; set; }
             
-            public Cuadro Club { get; }
-
-
-            public string Position { get; set; }
+            public string NumeroCamiseta { get; set; }
 
 
 
 
 
-
-        }
     }
+   
+
 }

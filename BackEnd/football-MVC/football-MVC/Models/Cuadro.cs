@@ -13,10 +13,22 @@ namespace football_MVC.Models
 
         public string pais { get; set; }
 
+        [Required]
         public Jugador[] Jugadores { get; set; }
 
+        [Required]
         [MinLength(4)]
         public string Formation { get; set; }
 
+
+        public void ComprarJugador()
+        {
+
+        }
+
+        public void VenderJugador()
+        {
+
+        }
     }
 }
