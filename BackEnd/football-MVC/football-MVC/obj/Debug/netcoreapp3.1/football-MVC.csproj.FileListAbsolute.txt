@@ -17,8 +17,6 @@ E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\football-MVC.RazorAssemblyInfo.cache
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\football-MVC.RazorAssemblyInfo.cs
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\staticwebassets\football-MVC.StaticWebAssets.Manifest.cache
-E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\staticwebassets\football-MVC.StaticWebAssets.xml
-E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\football-MVC.styles.css
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\football-MVC.TagHelpers.input.cache
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\football-MVC.TagHelpers.output.cache
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\obj\Debug\netcoreapp3.1\football-MVC.RazorCoreGenerate.cache
@@ -153,3 +151,5 @@ E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Mythology-Labs-Prueba\BackEnd\football-MVC\football-MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
